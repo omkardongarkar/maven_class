@@ -1,11 +1,11 @@
 package com.fortune.myjavaapp;
 
 /**
- * Hello world!
+ * Hello world 2!
  */
 public class App {
 
-    private static final String MESSAGE = "Hello World!";
+    private static final String MESSAGE = "Hello World 2!";
 
     public App() {}
 
